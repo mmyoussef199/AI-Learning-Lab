@@ -12,7 +12,7 @@ A structured AI engineering journey focused on practical understanding, Microsof
 
 ## Current Certification Target
 
-- **Microsoft Azure AI Fundamentals (AI-900)**
+- **Microsoft Azure AI Fundamentals (AI-901)**
 - Target exam window: **October 2026**
 - Study approach: Microsoft exam objectives + engineering understanding + practical exercises + mock exams
 
@@ -27,7 +27,7 @@ AI-Learning-Lab/
 ├── 05-LLMs/
 ├── 06-RAG/
 ├── 07-AI-Agents/
-├── 08-Azure-AI-900/
+├── 08-Azure-AI-901/
 ├── 09-Azure-AI-102/
 ├── 10-Projects/
 ├── 11-Interview-Preparation/
@@ -58,7 +58,7 @@ Each topic should include:
 | Large Language Models | Not Started |
 | RAG | Not Started |
 | AI Agents | Not Started |
-| AI-900 Preparation | In Progress |
+| AI-901 Preparation | In Progress |
 | AI-102 Preparation | Not Started |
 | Portfolio Projects | Not Started |
 | Interview Preparation | Not Started |
