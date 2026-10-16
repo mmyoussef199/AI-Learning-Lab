@@ -2,6 +2,14 @@
 
 A structured AI engineering journey focused on practical understanding, Microsoft certification preparation, portfolio development, and interview readiness.
 
+## Current Study Focus (October 2026)
+
+- **Stanford CS229 / machine learning study:** Part of my ongoing structured AI learning, including lecture-based study and technical discussion.
+- **Current pace:** Temporarily paused due to professional project commitments; the learning track remains active and will resume.
+- **Progress transparency:** This repository documents learning goals and work in progress, not completed coursework or earned certifications unless explicitly identified as such.
+
+The original Microsoft certification preparation plan is retained below as a historical learning objective; its dates should not be interpreted as a confirmed exam booking or certification achievement.
+
 ## Primary Objectives
 
 1. Pass the Microsoft Azure AI Fundamentals certification before November 2026.
